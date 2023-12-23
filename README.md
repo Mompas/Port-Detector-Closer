@@ -1,4 +1,4 @@
-# Port-Detector-Closer
+# Open-Port-Detector-Closer
 A tool to detect open ports, with an option to close them.
 
 This tool uses NMAP for port detection, and ufw/iptables to close them.
